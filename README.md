@@ -17,3 +17,10 @@ And the function runs with such input/output settings by calling internally: rw_
 
 You can use this piece of code for single or batch processing and/or in combination within a programming workflow. <br/>
 
+Necessary imports are:<br/>
+osgeo --> gdal<br/>
+os<br/>
+sys<br/>
+time<br/>
+numpy<br/>
+scipy --> signal<br/>
