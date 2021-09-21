@@ -42,7 +42,7 @@ For a copy of the GNU-GPL v2 license please visit: http://www.gnu.org/licenses/g
 ############# Remember to use forward slash in paths ###############################
 """
 dtm_r_txt = 'D:/Research/SedInConnect_python/dtmfel.tif'  # input DTM
-cell_s_txt = 2.5  # input moving window size
+cell_s_txt = 2.5  # input raster cell size
 tgt_file_txt = 'D:/Research/SedInConnect_python/target.shp'  # polygonal target shapefile
 w_txt = 'D:/Research/SedInConnect_python/w.tif'  # weighting factor raster
 ic_out_txt = 'D:/Research/SedInConnect_python/ic_tg.tif'  # output
