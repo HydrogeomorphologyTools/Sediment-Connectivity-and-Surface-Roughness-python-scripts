@@ -11,9 +11,9 @@ Welcome to the **Sediment-Connectivity-and-Surface-Roughness-python-scripts** wi
 
 In order to run, the provided functions **need to have TauDEM installed**, you can download and install the latest complete windows installer from [https://hydrology.usu.edu/taudem/taudem5/downloads.html](https://hydrology.usu.edu/taudem/taudem5/downloads.html)
 
-For Linux users, TauDEM is provided also as C++ source code and a compilation can be tried (with some manual tuning) bearing in mind that it makes use of MPI, for windows users the complete windows installer will take care of installing the dependencies (GDAL, MPI/HPCPack, Visual Studio libraries).\
+For Linux users, TauDEM is provided also as C++ source code and a compilation can be tried (with some manual tuning) bearing in mind that it makes use of MPI, for windows users the complete windows installer will take care of installing the dependencies (GDAL, MPI/HPCPack, Visual Studio libraries).<br/>
 
-\Mandatory Python imports are<br/>
+**Mandatory Python imports are** <br/>
 
 osgeo --> gdal<br/>
 os<br/>
@@ -54,7 +54,7 @@ This way it can be used for a single run, but it can be also called in a loop (o
 * Crema, S., Llena, M., Calsamiglia, A., Estrany, J., Marchi, L., Vericat, D., Cavalli, M., 2020. Can inpainting improve digital terrain analysis? Comparing techniques for void filling, surface reconstruction and geomorphometric analyses. Earth Surf. Process. Landf. 45, 736–755. https://doi.org/10.1002/esp.4739
 
 
-# USAGE EXAMPLE
+# USAGE EXAMPLE _**cavalli_roughness.py**_
 ##################################################################################### <br/>
   ----------------------------------USAGE------------------------------------- <br/>
 ############# Simply set the following input and output files and parameters (examples provided) ######### <br/>
