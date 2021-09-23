@@ -7,7 +7,7 @@ Welcome to the **Sediment-Connectivity-and-Surface-Roughness-python-scripts** wi
 
 ***
 
-# DEPENDANCIES
+# Dependancies
 
 In order to run, the provided functions **need to have TauDEM installed**, you can download and install the latest complete windows installer from [https://hydrology.usu.edu/taudem/taudem5/downloads.html](https://hydrology.usu.edu/taudem/taudem5/downloads.html)
 
@@ -24,7 +24,7 @@ scipy --> signal<br/>
 
 ***
 
-# DESCRIPTION
+# Description
 
 Two main functions are made available within the repository:
 
@@ -37,7 +37,7 @@ The function needs an input pit-filled DTM, a parameter indicating the cell size
 
 ***
 
-# USAGE
+# Usage
 
 Both functions can be modified and tuned based on the user's needs. As provided, the two functions work in the same way that is to say they accept at the beginning of the script the path to the input files and parameters.\
 After the function definition, at the end of the file, the function itself is called with the input/output files and parameters set at the beginning and produces the desired outcomes.\
@@ -72,6 +72,6 @@ And the function runs with such input/output settings by calling internally: rw_
 You can use this piece of code for single or batch processing and/or in combination within a programming workflow. <br/>
 
 ***
-# FUNDING
+# Funding
 This software has been developed and funded in the framework of the INTERREG V-A Italiy-Austria 2014-2020 ITAT3032 SedInOut Project
 ***
