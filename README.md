@@ -24,10 +24,6 @@ scipy --> signal<br/>
 
 ***
 
-# FUNDING
-This software has been developed and funded in the framework of the INTERREG V-A Italiy-Austria 2014-2020 ITAT3032 SedInOut Project
-***
-
 # DESCRIPTION
 
 Two main functions are made available within the repository:
@@ -74,3 +70,8 @@ w_out_txt = 'D:/Research/SedInConnect_python/w.tif'  # output <br/>
 And the function runs with such input/output settings by calling internally: rw_cavalli(dtm_r_txt, f_s_txt, ri_out_txt, w_out_txt)<br/>
 
 You can use this piece of code for single or batch processing and/or in combination within a programming workflow. <br/>
+
+***
+# FUNDING
+This software has been developed and funded in the framework of the INTERREG V-A Italiy-Austria 2014-2020 ITAT3032 SedInOut Project
+***
