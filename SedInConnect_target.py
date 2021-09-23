@@ -20,7 +20,7 @@ last edited: September 2021
 Copyright (C) 2014-2021  Stefano Crema, Alessandro Sarretta, Giorgia Macchi & Marco Cavalli, @ CNR-IRPI, corso stati uniti, 4, 35127, Padova (Italy)
 mail: stefano.crema@irpi.cnr.it; marco.cavalli@irpi.cnr.it
 
-This software has been developed in the framework of the Interreg SedInOut Project
+This software has been developed in the framework of the INTERREG V-A Italiy-Austria 2014-2020 ITAT3032 SedInOut Project
 
 ###############################################################################
 This program is free software; you can redistribute it and/or
