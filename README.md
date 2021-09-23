@@ -24,6 +24,10 @@ scipy --> signal<br/>
 
 ***
 
+# FUNDING
+This software has been developed and funded in the framework of the INTERREG V-A Italiy-Austria 2014-2020 ITAT3032 SedInOut Project
+***
+
 # DESCRIPTION
 
 Two main functions are made available within the repository:
