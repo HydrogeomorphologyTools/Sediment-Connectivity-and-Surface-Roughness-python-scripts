@@ -73,5 +73,5 @@ You can use this piece of code for single or batch processing and/or in combinat
 
 ***
 # Funding
-This software has been developed and funded in the framework of the INTERREG V-A Italiy-Austria 2014-2020 ITAT3032 SedInOut Project
+This software has been developed and funded in the framework of the INTERREG V-A Italy-Austria 2014-2020 ITAT3032 SedInOut Project
 ***
