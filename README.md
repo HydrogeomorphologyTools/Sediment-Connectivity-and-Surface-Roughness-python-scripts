@@ -7,7 +7,7 @@ Welcome to the **Sediment-Connectivity-and-Surface-Roughness-python-scripts** wi
 
 ***
 
-# Dependancies
+# Dependencies
 
 In order to run, the provided functions **need to have TauDEM installed**, you can download and install the latest complete windows installer from [https://hydrology.usu.edu/taudem/taudem5/downloads.html](https://hydrology.usu.edu/taudem/taudem5/downloads.html)
 
